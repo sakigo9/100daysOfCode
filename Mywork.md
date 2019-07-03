@@ -64,3 +64,11 @@
 **Thoughts**:Enjoying the work with NLP.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
+
+### Day 9: JULY 3 2019 (TENSORFLOW)+(FREECODECAMP)
+
+**Today's Progress**:looked at taking tokenized words and using Embeddings to establish meaning from them in a mathematical way. Words were mapped to vectors in higher dimensional space.
+
+**Thoughts**:Got the essence of nlp to a broader aspect.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo and https://github.com/sakigo9/MY_ML_CODE
