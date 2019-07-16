@@ -169,7 +169,7 @@
 
 ### Day 22: JULY 16 2019 (FREECODECAMP)+(PYTHON)+(IBM WATSON)
 
-**Today's Progress**:Today i successfully completed my IBM WATSON ASSISTANT certification. Also gone through some of the method of classes in python. Again continued the chore of going through the fcc course.
+**Today's Progress**:Today i successfully completed my IBM WATSON ASSISTANT certification. Also gone through some of the method of classes in python. Again continued the chore of going through the fcc javascript course.
 
 **Thoughts**:Decided to start NODEJS which one of the famous buzz words in the field.
 
