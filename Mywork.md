@@ -218,11 +218,20 @@
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
 
-### Day 28: JULY 21 2019 (FREECODECAMP)+(FLUTTER)
+### Day 28: JULY 22 2019 (FREECODECAMP)+(FLUTTER)
 
 **Today's Progress**:Again started flutter. Wrote small code regarding stateless and statefull widgets . Also made a login page using this cross-platform framework.
 
 
 **Thoughts**:Revision is essential parameter.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo  
+
+### Day 29: JULY 23 2019 (FREECODECAMP)+(EXPRESS)
+
+**Today's Progress**:Had some express practice with template engines like jade/pug .Got the work flow of the express to broader aspect.
+
+
+**Thoughts**:Express framework makes NODEJS much easier.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo  
