@@ -563,9 +563,9 @@
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
 
-### Day 71: SEPTEMBER 12 2019 (FREECODECAMP)+(ES6)
+### Day 72: SEPTEMBER 13 2019 (FREECODECAMP)+(ES6)
 
-**Today's Progress**: parameters concepts in ES6.
+**Today's Progress**: Brushing ES6.
 
 **Thoughts**: ES6 makes less code use.
 
