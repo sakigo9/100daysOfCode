@@ -573,7 +573,7 @@
 
 ### Day 74: SEPTEMBER 20 2019
 
-**Today's Progress**: Allmost 5 days break. was busy with exams now all set to complete the last quater.
+**Today's Progress**: All most 5 days break. was busy with exams now all set to complete the last quarter.
 
 **Thoughts**: consistency is mandatory.
 
@@ -582,3 +582,11 @@
 **Today's Progress**: Started front end library project in fcc.
 
 **Thoughts**: Mini projects keeps u motivated.
+
+### Day 76: SEPTEMBER 23 2019 (FREECODECAMP)+(ES6)
+
+**Today's Progress**: Node work sorted out. Revision for mini projects.
+
+**Thoughts**: keep working.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
