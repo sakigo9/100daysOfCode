@@ -1,4 +1,4 @@
-console.log("connected")
+console.log("connection check in")
 var restart = document.querySelector("#b");
 var squares = document.querySelectorAll('td');
 function clear(){
