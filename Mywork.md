@@ -606,3 +606,11 @@
 **Thoughts**: user data analysis are important.
 
 **Link(s) to work**:https://www.freecodecamp.org/sakigo
+
+### Day 79: OCTOBER 9 2019 (FREECODECAMP)+(Javascript)
+
+**Today's Progress**: Some javascript techniques explored
+
+**Thoughts**: Getting looping knowledge right.
+
+**Link(s) to work**:https://www.freecodecamp.org/sakigo
