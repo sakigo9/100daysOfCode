@@ -622,3 +622,11 @@
 **Thoughts**: React is a library with great components and strength .
 
 **Link(s) to work**:https://github.com/sakigo9/100daysOfCode/tree/master/QUOTE/my-app
+
+### Day 81: NOVEMBER 12 2019 (REACT)
+
+**Today's Progress**: Looked chart.js and updated readme file for RANDOM QUOTE POSTER part.
+
+**Thoughts**: React is a library with great components and strength .
+
+**Link(s) to work**:https://github.com/sakigo9/100daysOfCode/tree/master/QUOTE/my-app
