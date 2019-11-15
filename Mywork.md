@@ -638,3 +638,11 @@
 **Thoughts**:Chart.js has lot to offer in visualizing the data.
 
 **Link(s) to work**:https://github.com/sakigo9/100daysOfCode/tree/master/CHART.JS
+
+### Day 83: NOVEMBER 15 2019 (CHART.JS)
+
+**Today's Progress**: Gone through chart.js .
+
+**Thoughts**:Chart.js has lot to offer in visualizing the data.
+
+**Link(s) to work**:https://github.com/sakigo9/100daysOfCode/tree/master/CHART.JS
